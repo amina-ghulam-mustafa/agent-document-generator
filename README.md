@@ -43,3 +43,9 @@ If you wish to run this agent on your local machine:
 1. Clone this repository:
    ```bash
    git clone
+   
+2. Install the required dependencies:
+pip install -r requirements.txt
+
+3. Run the Streamlit application:
+streamlit run app.py
